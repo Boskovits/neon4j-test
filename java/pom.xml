@@ -8,6 +8,7 @@
 		<groupId>org.bgsoft.neo4jtest</groupId>
 		<artifactId>neo4jtest-base</artifactId>
 		<version>0.0.0</version>
+		<relativePath>./pom-base.xml</relativePath>
 	</parent>
 
 	<artifactId>neo4jtest</artifactId>
